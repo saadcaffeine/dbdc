@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 996 150" role="img" aria-labelledby="t d" font-family="sans-serif" font-size="11">
+<title id="t">DBDC disc rim, unrolled</title>
+<desc id="d">The two cam tracks of a DBDC disc unrolled into a strip of 64 positions. Raised positions are dark. A three-position window highlights how the pins read one complete six-dot braille pattern.</desc>
+<style>.on{fill:#1f2937}.off{fill:#e5e7eb}.lbl{fill:#374151}.win{fill:none;stroke:#d97706;stroke-width:2.5}@media (prefers-color-scheme: dark){.on{fill:#f3f4f6}.off{fill:#374151}.lbl{fill:#d1d5db}}</style>
+<text class="lbl" x="62" y="50" text-anchor="end">Left</text>
+<rect class="off" x="71" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="85" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="99" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="113" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="127" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="141" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="155" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="169" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="183" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="197" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="211" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="225" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="239" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="253" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="267" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="281" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="295" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="309" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="323" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="337" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="351" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="365" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="379" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="393" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="407" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="421" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="435" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="449" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="463" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="477" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="491" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="505" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="519" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="533" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="547" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="561" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="575" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="589" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="603" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="617" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="631" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="645" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="659" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="673" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="687" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="701" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="715" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="729" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="743" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="757" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="771" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="785" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="799" y="40" width="12" height="14" rx="2"/>
+<rect class="off" x="813" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="827" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="841" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="855" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="869" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="883" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="897" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="911" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="925" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="939" y="40" width="12" height="14" rx="2"/>
+<rect class="on" x="953" y="40" width="12" height="14" rx="2"/>
+<text class="lbl" x="62" y="70" text-anchor="end">Right</text>
+<rect class="off" x="71" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="85" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="99" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="113" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="127" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="141" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="155" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="169" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="183" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="197" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="211" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="225" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="239" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="253" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="267" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="281" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="295" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="309" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="323" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="337" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="351" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="365" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="379" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="393" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="407" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="421" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="435" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="449" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="463" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="477" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="491" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="505" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="519" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="533" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="547" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="561" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="575" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="589" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="603" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="617" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="631" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="645" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="659" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="673" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="687" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="701" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="715" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="729" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="743" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="757" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="771" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="785" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="799" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="813" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="827" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="841" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="855" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="869" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="883" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="897" y="60" width="12" height="14" rx="2"/>
+<rect class="off" x="911" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="925" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="939" y="60" width="12" height="14" rx="2"/>
+<rect class="on" x="953" y="60" width="12" height="14" rx="2"/>
+<text class="lbl" x="77.0" y="94" text-anchor="middle">0</text>
+<text class="lbl" x="189.0" y="94" text-anchor="middle">8</text>
+<text class="lbl" x="301.0" y="94" text-anchor="middle">16</text>
+<text class="lbl" x="413.0" y="94" text-anchor="middle">24</text>
+<text class="lbl" x="525.0" y="94" text-anchor="middle">32</text>
+<text class="lbl" x="637.0" y="94" text-anchor="middle">40</text>
+<text class="lbl" x="749.0" y="94" text-anchor="middle">48</text>
+<text class="lbl" x="861.0" y="94" text-anchor="middle">56</text>
+<rect class="win" x="349" y="35" width="44" height="44" rx="4"/>
+<text class="lbl" x="371.0" y="118" text-anchor="middle">positions 20-22: dots 35 (⠔)</text>
+<text class="lbl" x="70" y="132">64 positions x 5.625° = one turn. Every 3-position window is a different 6-dot pattern.</text>
+</svg>

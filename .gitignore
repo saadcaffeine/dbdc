@@ -1,0 +1,11 @@
+# OpenSCAD / editor backups
+*.bak
+*~
+.DS_Store
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+# Python
+__pycache__/
+*.pyc

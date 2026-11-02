@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+title: DBDC Braille Display
+description: Open-source refreshable braille display built from 3D-printed de Bruijn cam discs and small DC motors.
+url: "https://saadcaffeine.github.io"
+baseurl: "/dbdc"
+
+# GitHub Pages: Settings -> Pages -> Deploy from branch -> main, /docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links:
+  "DBDC on GitHub": "https://github.com/saadcaffeine/dbdc"
+aux_links_new_tab: false
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/saadcaffeine/dbdc"
+gh_edit_branch: "main"
+gh_edit_source: docs
+gh_edit_view_mode: "tree"
+
+footer_content: >-
+  DBDC Open-Source Refreshable Braille Display.
+  Documentation <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>,
+  hardware CERN-OHL-S-2.0, software MIT.
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

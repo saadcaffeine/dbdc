@@ -1,0 +1,27 @@
+section,item,qty_3cell,qty_per_extra_cell,description,specification,source_or_datasheet,est_unit_usd_low,est_unit_usd_high,notes
+printed,dbdc_disc,3,1,Cam disc + web + 64T worm wheel,"PLA/PETG, 0.2 mm layers, wheel face on bed, 100% infill on the rim",hardware/stl/dbdc_disc.stl,0.25,0.40,~13 g solid PLA each
+printed,dbdc_worm_front,2,0.5,"Worm + sleeve + index collar, front cells","module 0.94, OD 8.9; print upright, pinned end on bed",hardware/stl/dbdc_worm_front.stl,0.01,0.03,index-magnet hole angled for the front hall switch
+printed,dbdc_worm_back,1,0.5,"Worm + sleeve + index collar, back cells","module 0.94, OD 8.9; print upright, pinned end on bed",hardware/stl/dbdc_worm_back.stl,0.01,0.03,index-magnet hole angled for the back hall switch
+printed,dbdc_panel_left,1,0,End panel with source-location label,"print outer face down, 4 perimeters",hardware/stl/dbdc_panel_left.stl,0.70,1.00,~33 g
+printed,dbdc_panel_right,1,0,End panel with axle spacer collar,print outer face down,hardware/stl/dbdc_panel_right.stl,0.70,1.00,~33 g
+printed,dbdc_guide_plate,1,0,Pin guide plate,print flat; check 1.8 mm holes with a pin,hardware/stl/dbdc_guide_plate.stl,0.05,0.10,
+printed,dbdc_rail_front,1,0,Front N20 holder rail with index-switch tower,print flat,hardware/stl/dbdc_rail_front.stl,0.05,0.10,
+printed,dbdc_rail_back,1,0,Back N20 holder rail with index-switch tower,print flat,hardware/stl/dbdc_rail_back.stl,0.05,0.10,
+printed,dbdc_sensor_rail,1,0,Home hall switch rail with pedestals,print flat,hardware/stl/dbdc_sensor_rail.stl,0.03,0.05,
+printed,dbdc_base,1,0,Base with motor end-cap channels and terminal reliefs,print flat; slides in last,hardware/stl/dbdc_base.stl,0.40,0.60,~19 g
+printed,dbdc_comb_front,1,0,Bearing comb for the front worms' journal pins,print flat,hardware/stl/dbdc_comb_front.stl,0.02,0.05,
+printed,dbdc_comb_back,1,0,Bearing comb for the back worm's journal pin,print flat,hardware/stl/dbdc_comb_back.stl,0.02,0.05,
+mechanical,N20 gearmotor (no encoder),3,1,"DC gearmotor, 3 mm D-shaft, 10x12 mm body","6 V, roughly 300-1000 rpm output (e.g. 30:1 or 50:1); ~27 mm long incl. tabs",https://www.pololu.com/category/60/micro-metal-gearmotors,1.50,4.00,Pololu micro metal gearmotors are the documented equivalent; generic N20s are cheaper
+mechanical,Neodymium magnet 3x1 mm,3,1,Home marker in each wheel,3 mm dia x 1 mm; all the same way round,generic,0.03,0.10,
+mechanical,Neodymium magnet 2x1.5 mm,3,1,Index marker in each worm collar,"2 mm dia x 1.5 mm, radial, same pole outward",generic,0.03,0.10,
+mechanical,Brass rod 1.5 mm,1,0,Braille pins (18 for 3 cells),"cut to 11.25 mm (outer rows) and 11.13 mm (middle row), round one end",generic,1.00,3.00,300 mm length makes ~25 pins
+mechanical,Steel rod 3 mm,1,0,Axle,cut to 29.1 mm,generic,0.50,1.50,
+mechanical,Brass or steel rod 2 mm,1,0,Worm journal pins (3),cut to 9.5 mm; press 5 mm into the worm's free end,generic,0.50,1.50,30 mm total
+mechanical,M3 x 40 bolt + nut,4,0,Tie bolts clamping the panels,ISO 4762 or 7380,generic,0.10,0.20,
+mechanical,Pin return (to be designed),1,0,Light downward force on the pins,"open item: thin foam strip under a cover plate, or a light spring per pin",,0.00,1.00,see docs/build-guide.md
+electronics,Hall switch TO-92,6,2,Index and home switch per cell,"TI DRV5023 (LPG/TO-92), open-drain, 2.5-38 V; A3144-type also works",https://www.ti.com/product/DRV5023,0.10,0.60,branded face toward the magnet
+electronics,DRV8833 dual H-bridge module,2,0.5,Motor driver (one channel per cell),"2.7-10.8 V, 1.5 A RMS per channel",https://www.ti.com/product/DRV8833,1.00,3.00,
+electronics,ESP32 development board,1,0,Controller,ESP32-DevKitC or similar; interrupts or PCNT count the index pulses,https://www.espressif.com/en/products/socs/esp32,5.00,10.00,see suggested pinout in docs/build-guide.md
+electronics,Power supply 5-6 V 2 A,1,0,Motor supply,USB-C PD trigger or bench supply; plain N20s draw well under 0.5 A each,generic,3.00,8.00,
+electronics,Resistor 10 kΩ,6,2,Pull-ups for the hall switches,only if the ESP32 internal pull-ups are not used,generic,0.01,0.02,
+electronics,Wire and connectors,1,0,Hook-up wire for motors (2 wires) and hall switches (3 wires),,generic,1.00,3.00,
